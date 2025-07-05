@@ -21,6 +21,8 @@ Contraseña: admin123
 Levantar el Servidor Backend:
 Desde la raíz de Proyecto_Back_End:
 
+Uso de Xampp para la creación de la base de datos en mysql.
+
 
 uvicorn app.main:app --reload --host 127.0.0.1 --port 8080
 
